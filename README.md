@@ -19,4 +19,4 @@
      <img align="right" src="https://komarev.com/ghpvc/?username=SamanthaPelkova&style=for-the-badge"/>
   </div>
     
-<h3>E-mail: samanthapelkova1@gmail.com</h3>
+E-mail: samanthapelkova1@gmail.com
