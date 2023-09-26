@@ -14,8 +14,7 @@
 <br/>
 <br/>
   <div>
-    <p>Profile views<p/>
      <img src="https://komarev.com/ghpvc/?username=SamanthaPelkova&style=for-the-badge"/>
-    </div>
+  </div>
     
 <h3>E-mail: samanthapelkova1@gmail.com</h3>
