@@ -1,5 +1,4 @@
 <div align="center">
-  
  <br>
   <p>Hi! I'm Samantha, Frontend dev from Brno :)</p>
   <p><strong>My statiscits of using programming languages are here:</strong></p>
