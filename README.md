@@ -1,5 +1,5 @@
 <div align="center">
- <br> 
+ <br>
   <p>Hi! I'm Samantha, Frontend dev from Brno :)</p>
   <p><strong>My statiscits of using programming languages are here:</strong></p>
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=samanthapelkova&show_icons=true&theme=radical"/>
