@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [vuejs-travel-agency](https://github.com/SamanthaPelkova/vuejs-travel-agency)
 
-- 🌱 I’m currently learning **Nuxt & Vue3**
+- 🌱 I’m currently learning **Nuxt3 & Vue3**
 
 - 📫 How to reach me **samanthapelkova1@gmail.com**
 
