@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ["Dětský domov Uherský Ostroh"](https://github.com/SamanthaPelkova/dd-uherskyostroh)
 
-- 🌱 I’m currently learning **Nuxt3 & Vue3**
+- 🌱 I’m currently learning **React & Nextjs**
 
 - 📫 How to reach me **samanthapelkova1@gmail.com**
 
